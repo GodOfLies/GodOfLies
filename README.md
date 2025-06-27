@@ -1,1 +1,1 @@
-![image](https://github.com/user-attachments/assets/2d0ecb16-40e7-45f4-9a58-a4ac88373b54)
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=iiartystranger&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=512a2a)]]
